@@ -1,11 +1,10 @@
 ## 졸업하자, 한번에
 ### Abstract
-> <img src="https://img.shields.io/badge/전시명-FFCA28?style=flat-square&logo=전시명&logoColor=로고색"/>
- : IR Shadow Play: Interactive Media Art Infrared Object Segmentation.<br/>
-> 작가 : [Fancy] 윤지희<br/>
-> 개발 기간 : 2023.01. ~ 2023.06.<br/>
-> 장르 : Interactive Media Art<br/>
-> 전시 소개 : 그림자 놀이는 인류의 예술적 상상력의 원천으로 자리잡았다. 아주 먼 옛날부터 촛불, 등잔불 가까이에서 손을 움직여 벽이나 창문에 여러 모양의 그림자를 만드는 것은 즐거움을 선사했다. 이제 적외선 카메라와 객체 분할 기술을 활용하여, 그림자 놀이를 새로운 차원으로 업그레이드하려 한다.
+> <<img src="https://img.shields.io/badge/전시명-FFCA28?style=flat-square&logo=logo&logoColor=black"/> : IR Shadow Play: Interactive Media Art Infrared Object Segmentation.<br/>
+> <<img src="https://img.shields.io/badge/작가-FDF4DC?style=flat-square&logo=logo&logoColor=black"/> : [Fancy] 윤지희<br/>
+> <<img src="https://img.shields.io/badge/개발기간-EFF5F0?style=flat-square&logo=logo&logoColor=black"/> : 2023.01. ~ 2023.06.<br/>
+> <<img src="https://img.shields.io/badge/장르-F1F3EF?style=flat-square&logo=logo&logoColor=black"/> : Interactive Media Art<br/>
+> <<img src="https://img.shields.io/badge/전시소개-D9EFF9?style=flat-square&logo=logo&logoColor=black"/> : 그림자 놀이는 인류의 예술적 상상력의 원천으로 자리잡았다. 아주 먼 옛날부터 촛불, 등잔불 가까이에서 손을 움직여 벽이나 창문에 여러 모양의 그림자를 만드는 것은 즐거움을 선사했다. 이제 적외선 카메라와 객체 분할 기술을 활용하여, 그림자 놀이를 새로운 차원으로 업그레이드하려 한다.
 
 이번 전시는 암실 속의 관람객들이 자신의 그림자를 현대적인 기술인 적외선과 조우시켜 가상의 그림자를 생성하는 새로운 경험을 제공한다. 전통적인 행위 예술과 현대 기술이 만나 참여자들에게 독특하고 감동적인 시각적 체험을 선사한다. 관람객은 그림자 놀이를 새로운 시각으로 경험할 수 있는 기회를 갖게 된다. 이번 전시는 그림자 놀이의 새로운 가능성을 제시하며, 예술적 상상력과 기술적 혁신의 결합이 어떤 아름다운 결과를 만들어낼 수 있는지 보여준다.
 
