@@ -1,6 +1,7 @@
 ## 졸업하자, 한번에
 ### Abstract
-> 전시명 : IR Shadow Play: Interactive Media Art Infrared Object Segmentation.<br/>
+> <img src="https://img.shields.io/badge/전시명-FFCA28?style=flat-square&logo=전시명&logoColor=로고색"/>
+ : IR Shadow Play: Interactive Media Art Infrared Object Segmentation.<br/>
 > 작가 : [Fancy] 윤지희<br/>
 > 개발 기간 : 2023.01. ~ 2023.06.<br/>
 > 장르 : Interactive Media Art<br/>
